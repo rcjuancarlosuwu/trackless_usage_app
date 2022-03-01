@@ -1,0 +1,19 @@
+{
+    "@@locale": "en",
+    "counterAppBarTitle": "Counter",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "tracklessOverviewAppBarTitle": "Trackless",
+    "errorSnackBar": "A error has ocurred.",
+    "undoSnackBar": "Undo",
+    "addAppBar": "Add",
+    "editAppBar": "Edit",
+    "editTracklessNameLabel": "Name",
+    "editTracklessCodeLabel": "Code",
+    "editTracklessOperativeLabel": "Operative",
+    "editTracklessInoperativeLabel": "Inoperative",
+    "editTracklessInoperativeHoursLabel": "Inoperative Hours",
+    "editTracklessObservationsLabel": "Observations",
+    "emptyTracklessList": "It is still empty."
+}

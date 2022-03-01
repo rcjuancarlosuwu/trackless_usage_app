@@ -1,0 +1,19 @@
+{
+    "@@locale": "es",
+    "counterAppBarTitle": "Contador",
+    "@counterAppBarTitle": {
+        "description": "Texto mostrado en la AppBar de la página del contador"
+    },
+    "tracklessOverviewAppBarTitle": "Trackless",
+    "errorSnackBar": "Un error ocurrio.",
+    "undoSnackBar": "Revertir",
+    "addAppBar": "Agregar",
+    "editAppBar": "Editar",
+    "editTracklessNameLabel": "Nombre",
+    "editTracklessCodeLabel": "Codigo",
+    "editTracklessOperativeLabel": "Operativo",
+    "editTracklessInoperativeLabel": "Inoperativo",
+    "editTracklessInoperativeHoursLabel": "H-INP",
+    "editTracklessObservationsLabel": "Observaciones",
+    "emptyTracklessList": "Lista vacia"
+}
